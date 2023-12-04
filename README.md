@@ -11,11 +11,12 @@ Let's create some code magic together! 💻✨ Open to job opportunities, collab
 
 <h3>About Me</h3>
 
-- 🔭 I’m currently studying at **CodeSpace Academy**
+- 🔭 Recently graduated from **CodeSpace Academy** with a Software Development Certificate
+-  🌱 Proficient in JavaScript, TypeScript and React.js
+-  
+- 🌱 I’m currently learning **Full-stack JavaScript, Python **
 
-- 🌱 I’m currently learning **Full-stack JavaScript, Python and Java**
-
-- 📫 How to reach me **aviwekoli@gmail.com**
+- 📫 Reach me **aviwekoli@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
