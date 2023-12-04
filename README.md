@@ -12,10 +12,8 @@ Let's create some code magic together! 💻✨ Open to job opportunities, collab
 <h3>About Me</h3>
 
 - 🔭 Recently graduated from **CodeSpace Academy** with a Software Development Certificate
--  🌱 Proficient in JavaScript, TypeScript and React.js
--  
+-  🌱 Proficient in JavaScript, TypeScript and React.js 
 - 🌱 I’m currently learning **Full-stack JavaScript, Python **
-
 - 📫 Reach me **aviwekoli@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
