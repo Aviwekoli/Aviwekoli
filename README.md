@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Aviwe Koli</h1>
+
 <h2 align="center">Software Developer</h2>
+Welcome to my coding haven! 🚀 I'm on the lookout for exciting job opportunities and collaborations that match my passion for crafting digital wonders. Proficient in the wizardry of JavaScript, TypeScript, and React, I'm your go-to enthusiast for all things front-end magic! 🎩✨
+
+But wait, there's more! 🌈 With a zest for full-stack web development, I'm not just stopping at making the pixels dance on the screen – I'm diving deep into the backend realms. 🚂💨 Committing to the never-ending adventure of learning, I'm on a quest to absorb every bit and byte of knowledge in this ever-evolving tech universe.
+
+Let's create some code magic together! 💻✨ Open to job opportunities, collaborations, and coffee-fueled coding sessions. Connect with me and let's embark on this epic coding journey! 🚀☕
+
 <img align="right" alt="CodingImage" width="400" border-radius= "20" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
 
 <h3>About Me</h3>
